@@ -1,4 +1,3 @@
-// WhiteCow.java - คลาสสำหรับวัวขาว
 public class WhiteCow extends Cow {
     public WhiteCow(String name) {
         super(name);

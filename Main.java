@@ -1,4 +1,3 @@
-// Main.java - เริ่มโปรแกรม
 public class Main {
     public static void main(String[] args) {
         // สร้างวัว 3 ตัวจากแต่ละทีม
